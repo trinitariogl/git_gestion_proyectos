@@ -3,3 +3,5 @@ Solución COmpletada
 Borrado de usuario solucionada
 CAmbios realizados en la issue #4problema solucionado
 Comentario
+
+Cambios en el repositorio original
